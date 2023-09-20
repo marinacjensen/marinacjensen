@@ -7,5 +7,5 @@
 👀 Interessada em Web Development e Web Design.
 
 # 📊 GitHub Stats:
-<img width=50% src="(https://github-readme-stats.vercel.app/api?username=marinacjensen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)"><br/>
-<img width=50% src="(https://github-readme-stats.vercel.app/api/top-langs/?username=marinacjensen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)">
+<img src="(https://github-readme-stats.vercel.app/api?username=marinacjensen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)"><br/>
+<img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=marinacjensen&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)">

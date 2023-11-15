@@ -2,7 +2,7 @@
 
 👩‍🎓 Formanda no curso de Informática para Internet no IFRS - *Campus* Rio Grande;
 
-👩‍💻 Atualmente focada em Django/Python, Node.JS e PHP;
+👩‍💻 Atualmente focada em JavaScript, PHP e Java;
 
 👀 Interessada em Web Development e Web Design.
 

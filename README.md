@@ -1,6 +1,8 @@
 ### 📌 Marina Jensen
 
-👩‍🎓 Formanda no curso de Informática para Internet no IFRS - *Campus* Rio Grande;
+👩‍🎓 Técnica em Informática para Internet no IFRS - *Campus* Rio Grande;
+
+📚 Estudante do curso superior em Análise e Desenvolvimento de Sistemas do IFRS - *Campus* Rio Grande;
 
 👩‍💻 Atualmente focada em JavaScript, PHP e Java;
 

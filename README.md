@@ -4,7 +4,7 @@
 
 📚 Estudante do curso superior em Análise e Desenvolvimento de Sistemas do IFRS - *Campus* Rio Grande;
 
-👩‍💻 Atualmente focada em JavaScript, PHP e Java;
+👩‍💻 Atualmente focada em Java;
 
 👀 Interessada em Web Development e Web Design.
 
